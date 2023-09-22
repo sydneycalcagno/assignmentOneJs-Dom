@@ -1,0 +1,27 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: absolute;
+}
+#flower{
+    position: absolute;
+    top: 5em;
+}
+#hovering{
+    margin-top: 20%;
+    text-align: center;
+    width: 100%;
+}
+#seed{
+    width: 250px;
+    height: 280px;
+}
+#flowerR{
+    width: 250px;
+    height: 280px;
+}
+#leaf{
+    width: 250px;
+    height: 280px;
+}
